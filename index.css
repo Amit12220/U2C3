@@ -1,0 +1,10 @@
+/* Fill CSS here */
+th{
+    border: 1px solid black;
+}
+thead{
+    background-color: blue;
+}
+td{
+    text-align: center;
+}
